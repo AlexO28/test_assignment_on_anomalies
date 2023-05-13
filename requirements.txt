@@ -1,0 +1,5 @@
+fastapi
+hdbscan
+pandas
+numpy
+uvicorn
